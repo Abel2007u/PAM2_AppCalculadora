@@ -1,5 +1,5 @@
 <h1>PAM II_App Calculadora</h1>
-<p>Da matéria de Programação de Aplicativos Mobile II</p>
+<p>Da matéria de Programação de Aplicativos Mobile II, </p>
 <p>pelo Aluno: Abel da Silva Borba Garcia - 3ºDS</p>
 
 <h3>Descrição</h3>
